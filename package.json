@@ -1,0 +1,1 @@
+{ "name": "cors-doctor-lite", "version": "1.0.1", "description": "Diagnose CORS errors: sends a real preflight and the actual request, then prints the exact fix. Zero dependencies.", "bin": { "cors-doctor": "bin/cors-doctor.js" }, "type": "commonjs", "engines": { "node": ">=18" }, "scripts": { "test": "node --test test/" }, "license": "MIT" }
